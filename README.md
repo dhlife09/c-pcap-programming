@@ -5,14 +5,14 @@
 [Protocol] TCP
 
 [Ethernet-src mac] 00:00:00:00:00:00
-[Ethernet-dst mac] 00:00:17:2C:B3:5B
+[Ethernet-dst mac] 02:00:17:00:A2:5B
 
-[IP-src] 10.0.0.20
-[IP-dst] 23.246.47.180
+[IP-src] 23.246.47.180
+[IP-dst] 10.0.0.20
 
-[TCP-src port] 48319
-[TCP-dst port] 4787
-
+[TCP-src port] 47873
+[TCP-dst port] 48319
+Message: ef 61 1c 42 b0 cb 8e c4 e4 a2 63 b7 1d d8 35 5a ...
 ```
 
 **TCP ONLY**
